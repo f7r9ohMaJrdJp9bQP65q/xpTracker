@@ -173,7 +173,7 @@
 
     function checkPackageVersion() {
         // Get the package version from GitHub
-        https.get('https://raw.githubusercontent.com/f7r9ohMaJrdJp9bQP65q/TESTREPO/main/package.json', (res) => {
+        https.get('https://raw.githubusercontent.com/f7r9ohMaJrdJp9bQP65q/xpTracker/main/package.json', (res) => {
             let data = '';
 
             res.on('data', (chunk) => {
