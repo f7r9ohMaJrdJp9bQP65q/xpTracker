@@ -1,0 +1,21 @@
+{
+  "name": "xptracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "author": "khufu",
+  "license": "ISC",
+  "dependencies": {
+    "bytes": "^3.1.2",
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "globaloffensive": "^2.3.0",
+    "https": "^1.0.0",
+    "readline-sync": "^1.4.10",
+    "steam-totp": "^2.1.2",
+    "steam-user": "^4.27.0"
+  }
+}
