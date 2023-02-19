@@ -1,0 +1,15 @@
+{
+    "username":"",
+    "password":"",
+    "APIKEY":"",
+    "target":"",
+
+    "token":"",
+    "logChannel":"",
+
+    "display" : {
+        "terminal": true,
+        "discord" : true
+    }
+}
+
